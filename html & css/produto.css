@@ -18,23 +18,30 @@ ul{
 /* formatando as divs*/
 div{
     
-    width: 40%;
+
 }
 div.container{
- 
+    width: 40% ;
 }
 
 div#gelo{
-    width: 50%;
-    float: right;
-    margin-top: -20%; 
+    width: 57%;
+    float: left;
+    margin-left: 15px;
+    border: solid; 
+
 }
 
 div#produtos{
+    float: left;
+    border: solid;
+    width: 238px;
+    margin-top: 20px;
 
 }
 
 div#paga{
+    width: auto;
     margin-top: 25rem;
     border: 1px solid;
     padding: 5px;
