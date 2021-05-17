@@ -22,29 +22,45 @@ div{
 }
 div.container{
     width: 40% ;
+    float: left;
 }
 
 div#gelo{
-    width: 57%;
+    width: 44%;
     float: left;
     margin-left: 15px;
-    border: solid; 
+    border: none;
+    margin-top: 19px 
 
 }
 
 div#produtos{
     float: left;
-    border: solid;
+    border: none;
     width: 238px;
     margin-top: 20px;
 
 }
 
 div#paga{
-    width: auto;
-    margin-top: 25rem;
+    width: 100%;
+    margin-top: 100%;
     border: 1px solid;
     padding: 5px;
+}
+
+p,h4{
+    width: 36%;
+    margin-right: 17px;
+}
+
+p{
+    margin-block-start: auto;
+    text-align: ;
+}
+
+hr{
+    width: 10rem;
 }
 
 /* Tmanho imagens*/
