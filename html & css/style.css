@@ -3,6 +3,15 @@
   padding: 0%;
 }
 
+h1, p, h2{
+    margin: 5px;
+    padding: 5px;
+} 
+
+h1,h4{
+    font-family: sans-serif ;
+}
+
 table{
     background-color: red;
     width: 100%;
