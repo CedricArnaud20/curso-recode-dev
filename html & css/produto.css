@@ -14,11 +14,33 @@ ul{
     padding-left: 35px;
 }
 
-#produto{
+
+/* formatando as divs*/
+div{
+    
+    width: 40%;
+}
+div.container{
+ 
+}
+
+div#gelo{
+    width: 50%;
+    float: right;
+    margin-top: -20%; 
+}
+
+div#produtos{
 
 }
 
-div{
-    width: 15%;
+div#paga{
+    margin-top: 25rem;
+    border: 1px solid;
+    padding: 5px;
+}
 
+/* Tmanho imagens*/
+img{
+    width: 25%;
 }
