@@ -3,7 +3,7 @@
   padding: 0%;
 }
 
-/* formaatação h,p*/
+/* formaatação h,p,li,ul*/
 h1, p, h2{
     margin: 5px;
     padding: 5px;
@@ -12,6 +12,11 @@ h1, p, h2{
 h1,h2,h4,a{
     font-family: sans-serif ;
 }
+
+h3{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 h4{
     color: rgb(221, 3, 3) ;
 }
@@ -19,15 +24,22 @@ h4{
 a{
    color: #fff;     
 }
+li{
+    font-family: Arial, Helvetica, sans-serif;
+}
 
-/* formaatação table ,td,tr*/
-table{
+/* formatação table ,td,tr*/
+table#menu{
     background-color: red;
     width: 100%;
-} 
+}
+table#produtos{
+    border:0;
+    width:100%;  
+}
 
 td{
-    width: 25   %;
+    width: 25%;
     align-content: center;
 }
 
