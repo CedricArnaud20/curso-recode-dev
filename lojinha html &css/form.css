@@ -1,0 +1,11 @@
+textarea#comment{
+    width: 200px;
+}
+div#pagamentof{
+    margin-top: 10%;
+    text-align: center;
+}
+form{ 
+    padding-left: 40%;
+    padding-top: 5%;
+}
