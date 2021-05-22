@@ -42,6 +42,10 @@ table#produtos{
     width:100%;  
 }
 
+table#contato{ 
+    padding-left: 300px;    
+}
+
 td{
     width: 25%;
     align-content: center;
@@ -88,3 +92,7 @@ td#itens{
     margin-top: -55px;
 } 
 
+div#pagamento{
+    margin-top:20%;
+    text-align: center;
+}
