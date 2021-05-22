@@ -42,9 +42,14 @@ table#produtos{
     width:100%;  
 }
 
+
 table#contato{ 
     padding-left: 300px;    
 }
+table#lojas{ 
+    padding-left: 200px;    
+}
+
 
 td{
     width: 25%;
@@ -96,3 +101,8 @@ div#pagamento{
     margin-top:20%;
     text-align: center;
 }
+div#pagamentop{
+    margin-top:8%;
+    text-align: center;
+}
+
