@@ -24,19 +24,21 @@ h4{
     
 }
 
-a{
-   color: #fff;     
-}
+
 ol{
     margin-left: 40px; 
 }
 
 
 /* formatação table ,td,tr*/
-table#menu{
+.menu{
     background-color: red;
     width: 100%;
 }
+.menu a{
+    color: #fff;     
+    text-decoration: none;
+ }
 table#produtos{
     border:0;
     width:100%;  
@@ -105,4 +107,7 @@ div#pagamentop{
     margin-top:8%;
     text-align: center;
 }
-
+#rodape{
+    text-align: center;
+    top: 100%;
+}
